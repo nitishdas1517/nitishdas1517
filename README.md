@@ -11,7 +11,7 @@ Let's Connect!
 - Find me at:
   - 💻 [Personal Website](https://nitishdas1517.github.io/)
   - 👥 [LinkedIn](https://www.linkedin.com/in/nitish-kumar-das/)
-- 📫 How to reach me: [nitishdas1517@gmail.com](nitishdas1517@gmail.com)
+- 📫 How to reach me: [nitishdas1517@gmail.com](mailto:nitishdas1517@gmail.com)
 
 <!--
 **nitishdas1517/nitishdas1517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
